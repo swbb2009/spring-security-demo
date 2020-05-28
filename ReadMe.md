@@ -1,0 +1,1 @@
+这是一个通过spring security 实现登录认证 权限分配的一个工程，通过session存储token 。
